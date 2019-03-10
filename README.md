@@ -1,3 +1,3 @@
-A helper class for Google BERT (Devlin et al., 2018) to support online prediction and model pipelining. Check Jupyter Notebook for the demo. Before running, clone [BERT repo](https://github.com/google-research/bert) to the root directory. Check the pull request [#327](https://github.com/google-research/bert/pull/327) for `Sst2Processor` class.
+A helper class for Google BERT (Devlin et al., 2018) to support online prediction and model pipelining. Check Jupyter Notebook for the demo. Before running, clone [BERT repo](https://github.com/google-research/bert) into the root directory. Check the pull request [#327](https://github.com/google-research/bert/pull/327) for `Sst2Processor` class.
 
 Based on [this](https://github.com/google-research/bert/issues/94#issuecomment-437883736) issue comment by [@brightmart](https://github.com/brightmart).
