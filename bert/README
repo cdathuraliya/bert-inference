@@ -1,0 +1,2 @@
+Clone of Google BERT https://github.com/google-research/bert.
+Check the pull request https://github.com/google-research/bert/pull/327 for Sst2Processor class.
